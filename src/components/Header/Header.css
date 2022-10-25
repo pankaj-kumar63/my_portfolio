@@ -1,4 +1,5 @@
 header{
+    border: 1px solid;
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;

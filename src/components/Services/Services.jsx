@@ -30,7 +30,7 @@ const Services = () => {
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, similique.</p>
             </li>
             <li>
-              <biCheck className='service_list-icon' />
+              <BiCheck className='service_list-icon' />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, similique.</p>
             </li>
           </ul>
@@ -58,7 +58,7 @@ const Services = () => {
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, similique.</p>
             </li>
             <li>
-              <biCheck className='service_list-icon' />
+              <BiCheck className='service_list-icon' />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, similique.</p>
             </li>
           </ul>
@@ -86,7 +86,7 @@ const Services = () => {
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, similique.</p>
             </li>
             <li>
-              <biCheck className='service_list-icon' />
+              <BiCheck className='service_list-icon' />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, similique.</p>
             </li>
           </ul>
