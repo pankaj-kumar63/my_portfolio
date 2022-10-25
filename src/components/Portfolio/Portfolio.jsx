@@ -1,6 +1,6 @@
 import React from 'react'
 import './Portfolio.css';
-import IMG1 from '../../assets/me.png';
+// import IMG1 from '../../assets/me.png';
 import data from './github projects/Projects';
 const Portfolio = () => {
   return (
